@@ -11,7 +11,7 @@ This project explores the problem of estimating house sale prices from basic pro
 
 ---
 
-## echnologies & Libraries
+## Technologies & Libraries
 
 - **Language:** Python  
 - **Data & ML:** Pandas, NumPy, Scikit-Learn  
