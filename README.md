@@ -1,9 +1,6 @@
 # Housing-Price-Prediction
 
-
 Predict housing prices using a **Random Forest Regressor** on a limited-feature dataset.
-
----
 
 ## Overview
 
